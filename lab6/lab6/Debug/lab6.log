@@ -1,0 +1,3 @@
+﻿  lab6.cpp
+C:\Users\hubu4\Desktop\programowanie\lab6\lab6\lab6.cpp(39,37): error C2601: "LiczbaPierwsza": definicje funkcji lokalnych są niedozwolone
+C:\Users\hubu4\Desktop\programowanie\lab6\lab6\lab6.cpp(7): message : ten wiersz zawiera znak „{”, który nie został jeszcze dopasowany
